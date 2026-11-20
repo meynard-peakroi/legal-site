@@ -3,8 +3,8 @@
 namespace LegalSite\Services;
 
 use JsonException;
-use LegalDocs\Client\Exceptions\DocumentNotFoundException;
-use LegalDocs\Client\Exceptions\UnauthorizedException;
+use LegalSiteExceptions\DocumentNotFoundException;
+use LegalSiteExceptions\UnauthorizedException;
 use Throwable;
 
 class LegalPageRenderer

@@ -1,6 +1,6 @@
 <?php
 
-namespace LegalDocs\Client\Exceptions;
+namespace LegalSiteExceptions;
 
 class DocumentNotFoundException extends LegalApiException
 {
