@@ -1,6 +1,6 @@
 <?php
 
-namespace LegalSiteExceptions;
+namespace LegalSite\Exceptions;
 
 class UnauthorizedException extends LegalApiException
 {
