@@ -1,0 +1,15 @@
+{
+  "name": "meynard-peakroi/legal-site",
+  "description": "Legal API Client",
+  "type": "library",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "LegalSite\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.4.27",
+    "vlucas/phpdotenv": "^5.8"
+  }
+}
